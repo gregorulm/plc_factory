@@ -1,0 +1,5 @@
+
+1) Gregor Ulm
+   Original author and maintainer of PLC Factory (07/2016 - 09/2016)
+
+2) ...
